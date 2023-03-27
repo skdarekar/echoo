@@ -1,0 +1,22 @@
+{
+  "name": "echoo",
+  "version": "0.0.1",
+  "description": "Just echo it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skdarekar/echoo.git"
+  },
+  "keywords": [
+    "Echo"
+  ],
+  "author": "Sagar Darekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skdarekar/echoo/issues"
+  },
+  "homepage": "https://github.com/skdarekar/echoo#readme"
+}
